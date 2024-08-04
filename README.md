@@ -1,7 +1,7 @@
 # Hot-Button-Camera
 
 ## Overview
-This repository provides two programs that enable video recording using the SeekThermal Starter Kit:
+This repository provides two programs that enable video recording using the SeekThermal Starter Kit with a Windows Laptop:
 1. **seekcamera-simple**: Trigger recordings using your computer's keyboard.
 2. **seekcamera-daq**: Trigger recordings using a data acquisition device (DAQ) based on analog signals, such as those from a pulse stimulator.
 
