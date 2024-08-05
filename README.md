@@ -5,7 +5,8 @@ This repository provides two programs that enable video recording using the Seek
 1. **seekcamera-simple**: Trigger recordings using your computer's keyboard.
 2. **seekcamera-daq**: Trigger recordings using a data acquisition device (DAQ) based on analog signals, such as those from a pulse stimulator.
 
-To see an example of the images and data collected by this camera download and view Sf1_Example.mp4
+![SeekThermal Camera](x64-windows/images/thermalCameraMousePicture.png)
+To see an example video of the images and data collected by this camera download and view Sf1_Example.mp4
 
 ## Instructions
 
